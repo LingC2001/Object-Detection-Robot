@@ -24,3 +24,4 @@ Building a intelligent differential drive robot capable of object detection/avoi
 - Nyan Kyaw
 - Tin Nguyen
 - Calista Saw
+- Munir Azme
