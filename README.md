@@ -1,11 +1,12 @@
 # Object Detection Robot
-Building a intelligent differential drive robot capable of object detection/avoidance, SLAM and path planning
+Building an intelligent differential drive robot capable of object detection/avoidance, SLAM and path planning
 
 ## Description
 - Implementation of SLAM through detection of aruco markers and correction of robot pose using Extended Kalman Filter
 - Implementation of object detection and localisation using YOLOv7 and FastRCNN
   - Collection of training images
   - Labelling of training images
+  - Training with YOLOv7 and FastRCNN
 - Implementation of Path planning algorithm using Bi-directional RRT.
 
 ## Demo Images
